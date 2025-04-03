@@ -1,0 +1,3 @@
+Total number of papers: 7104
+Papers with English versions: 6549 (92.2%)
+Papers without English versions: 555 (7.8%)
