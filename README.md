@@ -50,7 +50,7 @@ python main.py
 ```
 
 The script will:
-1. Read the initial list of papers
+1. Read the initial list of papers(which can be downloaded from the ATCM website)
 2. Combine metadata columns
 3. Transform meeting information
 4. Create download links
