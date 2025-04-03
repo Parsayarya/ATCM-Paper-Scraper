@@ -104,7 +104,7 @@ The analysis identified several issues with the ATCM document collection:
 
 ## Alternative Document Source
 
-For documents that cannot be accessed through the primary links, an alternative source is available:
+For documents that cannot be accessed through the primary links(specifically the gap years), an alternative source is available:
 
 [UTAS RASC Antarctic Treaty Documents](https://prod.utasrasc.cloud.edu.au/index.php/antarctic-treaty-consultative-meeting-atcm-documents-2/informationobject/inventory?sort=levelUp)
 
